@@ -8,7 +8,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <PackageId>Aweton.Labs.Services.Abstraction</PackageId>
-    <Version>3.0.0</Version>
+    <Version>4.0.0</Version>
     <PackageTags>Mice, Mice Sevices</PackageTags>
     <Description>
     This library provides the set of definitions to make reusable services for Mice.
