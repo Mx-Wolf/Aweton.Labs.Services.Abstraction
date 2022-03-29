@@ -16,7 +16,7 @@
     <Authors>Maxim Volkov</Authors>
     <Company>Proximatics Ltd</Company>
     <PackageLicenseExpression>ISC</PackageLicenseExpression>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/Mx-Wolf/Aweton.Mxw.Services.Abstraction.git</RepositoryUrl>
     <RespositoryType>git</RespositoryType>
   </PropertyGroup>
 
