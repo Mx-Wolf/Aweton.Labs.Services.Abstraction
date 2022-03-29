@@ -1,4 +1,4 @@
-namespace Aweton.Mxw.Services.Abstraction;
+namespace Aweton.Labs.Services.Abstraction;
 
 public interface ITaskSource<TTask>{
   Task<IEnumerable<TTask>> LoadTasks();

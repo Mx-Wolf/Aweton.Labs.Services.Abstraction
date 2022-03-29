@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
   <PropertyGroup>
-    <PackageId>Aweton.Mxw.Services.Abstraction</PackageId>
+    <PackageId>Aweton.Labs.Services.Abstraction</PackageId>
     <Version>1.0.0</Version>
     <PackageTags>Mice, Mice Sevices</PackageTags>
     <Description>
@@ -16,7 +16,7 @@
     <Authors>Maxim Volkov</Authors>
     <Company>Proximatics Ltd</Company>
     <PackageLicenseExpression>ISC</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/Mx-Wolf/Aweton.Mxw.Services.Abstraction.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Mx-Wolf/Aweton.Labs.Services.Abstraction.git</RepositoryUrl>
     <RespositoryType>git</RespositoryType>
   </PropertyGroup>
 

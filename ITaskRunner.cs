@@ -1,4 +1,4 @@
-namespace Aweton.Mxw.Services.Abstraction;
+namespace Aweton.Labs.Services.Abstraction;
 
 public interface ITaskRunner<TTask,TResponse>{
   Task<TResponse> ExecuteTask(TTask task);
